@@ -19,7 +19,7 @@ _Monday_
 
 ## Code 401 - Advanced Software Development
 
-1.
+1. Monday
 2.
 3.
 4.
